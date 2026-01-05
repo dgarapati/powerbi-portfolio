@@ -2,7 +2,7 @@
 <!-- ===================== REPO BANNER ======================== -->
 <!-- ========================================================= -->
 
-# 🚀 Power BI Engineering & Architecture Hub  
+# 🚀 Power BI Engineering & Solutions Hub  
 ### **Built by Devi Garapati — Senior Power BI Developer | Data Analyst | Analytics Engineer**
 
 A complete end‑to‑end hub for **Power BI development, modeling, DAX, architecture, governance, DevOps, and real‑world PowerBI Solutions. You can also view/request any sample PowerBI files hosted on a Fabric Capacity**.
