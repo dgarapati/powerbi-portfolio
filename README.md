@@ -75,7 +75,7 @@ PBIP, Git, Azure DevOps, REST API automation, PowerShell scripts.
 - Inflight Operations & Performance
 - Technical Operations (TechOps)
 - Fraud Detection & Prevention
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOGI2NGFhYjItOWNmOS00ZjIxLTllOTMtNGJkZGI1ZDVkMDRhIiwidCI6ImQ1YzhiNjBkLTlmZDAtNDIzNy04NzllLTFhZWEyYjNjYTIwZSJ9 target="_blank">Revenue Analysis & Yield Management</a>
+[-Revenue Analytics]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiOGI2NGFhYjItOWNmOS00ZjIxLTllOTMtNGJkZGI1ZDVkMDRhIiwidCI6ImQ1YzhiNjBkLTlmZDAtNDIzNy04NzllLTFhZWEyYjNjYTIwZSJ9))
 - Booking Patterns & Marketing Trends
 - Delay & Cancellation Analytics
 - Executive Daily Operational Dashboards
