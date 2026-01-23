@@ -76,7 +76,7 @@ A curated collection of enterprise‑grade Power BI reports covering:
 - Technical Operations (TechOps)  
 - Fraud Detection & Prevention  
 - Revenue Analytics  
-  - View Sample Report [(app.powerbi.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiOGI2NGFhYjItOWNmOS00ZjIxLTllOTMtNGJkZGI1ZDVkMDRhIiwidCI6ImQ1YzhiNjBkLTlmZDAtNDIzNy04NzllLTFhZWEyYjNjYTIwZSJ9")
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiOGI2NGFhYjItOWNmOS00ZjIxLTllOTMtNGJkZGI1ZDVkMDRhIiwidCI6ImQ1YzhiNjBkLTlmZDAtNDIzNy04NzllLTFhZWEyYjNjYTIwZSJ9" target="_blank">View Sample Report</a>  
 - Booking Patterns & Marketing Trends  
 - Delay & Cancellation Analytics  
 - Executive Daily Operational Dashboards  
@@ -112,11 +112,11 @@ If this repository helps you, feel free to ⭐ star the repo or open an issue.
 
 If you want, I can also create:
 
-- A **table of contents**  
-- A **banner image**  
-- A **folder‑by‑folder README structure**  
-- A **“How to Use This Repo”** section  
-- A **Contributing Guide**  
-- A **Professional GitHub profile README** to match this branding  
+- A table of contents  
+- A banner image  
+- A folder‑by‑folder README structure  
+- A “How to Use This Repo” section  
+- A Contributing Guide  
+- A matching GitHub profile README  
 
-Just tell me the direction you want to take.
+Just tell me and I’ll shape it exactly the way you want.
