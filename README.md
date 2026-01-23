@@ -1,17 +1,14 @@
-<!-- ========================================================= -->
-<!-- ===================== REPO BANNER ======================== -->
-<!-- ========================================================= -->
+---
 
 # 🚀 Power BI Engineering & Solutions Hub  
-### **Built by Devi Garapati — Senior Power BI Developer | Data Analyst | Analytics Engineer**
+### **By Devi Garapati — Senior Power BI Developer | BI Architect | Analytics Engineer**
 
-A complete end‑to‑end hub for **Power BI development, modeling, DAX, architecture, governance, DevOps, and real‑world PowerBI Solutions. You can also view/request any sample PowerBI files hosted on a Fabric Capacity**.
+A comprehensive end‑to‑end hub for **Power BI development, modeling, DAX, architecture, governance, DevOps, and enterprise‑grade analytics solutions**.  
+You can also **view or request sample Power BI files hosted on Fabric Capacity**.
 
 ---
 
-<!-- ========================================================= -->
-<!-- ======================== BADGES ========================== -->
-<!-- ========================================================= -->
+## 🏷️ Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
@@ -23,14 +20,14 @@ A complete end‑to‑end hub for **Power BI development, modeling, DAX, archite
 
 ---
 
-# 📘 Overview
+## 📘 Overview
 
 This repository is a curated collection of **Power BI fundamentals → advanced enterprise architecture**, including:
 
 - Data modeling best practices  
 - DAX fundamentals & advanced patterns  
 - Power Query (M) transformations  
-- Data engineering integrations (ADF, Fabric, Databricks, APIs)  
+- Data engineering integrations (ADF, Fabric, Databricks, REST APIs)  
 - Semantic layer design  
 - Governance, security, and workspace administration  
 - CI/CD, DevOps, and automation  
@@ -38,69 +35,88 @@ This repository is a curated collection of **Power BI fundamentals → advanced 
 
 ---
 
-# 📂 Repository Structure 
+## 📂 Repository Structure
 
-Power BI Concepts and Sample .pbix files for each concept
+This repo contains **Power BI concepts, patterns, and sample `.pbix` files** for each topic area.  
+Each folder includes documentation, examples, and reusable templates.
 
 ---
 
-# 📗 Key Topics Covered
+## 📗 Key Topics Covered
 
-### ✔ Data Modeling  
+### ✔ **Data Modeling**  
 Star schema, snowflake, surrogate keys, SCDs, semantic layer design.
 
-### ✔ DAX  
+### ✔ **DAX**  
 Fundamentals → advanced patterns, time intelligence, calculation groups.
 
-### ✔ Power Query  
-M transformations, API ingestion, parameterization, custom functions.
+### ✔ **Power Query (M)**  
+Transformations, API ingestion, parameterization, custom functions.
 
-### ✔ Data Engineering  
+### ✔ **Data Engineering**  
 ADF, Fabric, Databricks, Delta Lake, Lakehouse, event‑driven refresh.
 
-### ✔ Architecture  
+### ✔ **Architecture**  
 Thin reports, shared datasets, certified datasets, real‑time analytics.
 
-### ✔ Governance  
+### ✔ **Governance**  
 RLS/OLS, workspace governance, naming conventions, usage analytics.
 
-### ✔ DevOps  
+### ✔ **DevOps**  
 PBIP, Git, Azure DevOps, REST API automation, PowerShell scripts.
 
 ---
 
-# 📘 Roadmap and Samples
+## 🧭 Roadmap & Sample Solutions
 
-📘 A curated collection of 15+ Power BI reports designed specifically for the travel and airline industry, covering a wide range of operational and analytical domains, including:
-- Inflight Operations & Performance
-- Technical Operations (TechOps)
-- Fraud Detection & Prevention
-  [Revenue Analytics]([https://example.com](https://app.powerbi.com/view?r=eyJrIjoiOGI2NGFhYjItOWNmOS00ZjIxLTllOTMtNGJkZGI1ZDVkMDRhIiwidCI6ImQ1YzhiNjBkLTlmZDAtNDIzNy04NzllLTFhZWEyYjNjYTIwZSJ9)
-- Booking Patterns & Marketing Trends
-- Delay & Cancellation Analytics
-- Executive Daily Operational Dashboards
-- Guest Care, Service Quality & Training Metrics
-- Flight Attendant Credit Card Sales & Performance
+### ✈️ **Airline & Travel Industry Analytics (15+ Reports)**  
+A curated collection of enterprise‑grade Power BI reports covering:
 
-📗 A curated collection of Power BI reports and analytics solutions built for the automotive sector, with a focus on enterprise‑scale operations similar to Toyota Motors North America. These samples span critical business domains across manufacturing, supply chain, sales, service, and customer experience, including:
-- Manufacturing Performance & Plant Operations
-- Vehicle Production Planning & Line Efficiency
-- Quality Control, Warranty Claims & Defect Analytics
-- Supply Chain, Parts Logistics & Inventory Optimization
-- Dealer Network Performance & Sales Funnel Analytics
-- Customer Experience, Service Retention & Satisfaction Metrics
-- Connected Vehicle & Telematics Insights
-- Marketing Attribution, Campaign Performance & Lead Conversion
-- Executive Operational Dashboards for Daily Decision‑Making
+- Inflight Operations & Performance  
+- Technical Operations (TechOps)  
+- Fraud Detection & Prevention  
+- Revenue Analytics  
+  - View Sample Report [(app.powerbi.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fapp.powerbi.com%2Fview%3Fr%3DeyJrIjoiOGI2NGFhYjItOWNmOS00ZjIxLTllOTMtNGJkZGI1ZDVkMDRhIiwidCI6ImQ1YzhiNjBkLTlmZDAtNDIzNy04NzllLTFhZWEyYjNjYTIwZSJ9")
+- Booking Patterns & Marketing Trends  
+- Delay & Cancellation Analytics  
+- Executive Daily Operational Dashboards  
+- Guest Care, Service Quality & Training Metrics  
+- Flight Attendant Credit Card Sales & Performance  
 
 ---
 
-# 📫 Built by Devi Garapati
+### 🚗 **Automotive Industry Analytics (Toyota‑Style Enterprise Models)**  
+A collection of Power BI solutions designed for large‑scale automotive operations:
+
+- Manufacturing Performance & Plant Operations  
+- Vehicle Production Planning & Line Efficiency  
+- Quality Control, Warranty Claims & Defect Analytics  
+- Supply Chain, Parts Logistics & Inventory Optimization  
+- Dealer Network Performance & Sales Funnel Analytics  
+- Customer Experience & Service Retention  
+- Connected Vehicle & Telematics Insights  
+- Marketing Attribution & Campaign Performance  
+- Executive Operational Dashboards  
+
+---
+
+## 📫 Built by **Devi Garapati**
 
 Senior BI Developer • BI Architect • Analytics Engineer  
 Power BI • Azure • SQL • REST APIs • Python  
-Enterprise reporting, modeling, automation & architecture
+Enterprise reporting • Modeling • Automation • Architecture
 
-If you find this helpful, feel free to ⭐ star the repo or open an issue.
+If this repository helps you, feel free to ⭐ star the repo or open an issue.
 
 ---
+
+If you want, I can also create:
+
+- A **table of contents**  
+- A **banner image**  
+- A **folder‑by‑folder README structure**  
+- A **“How to Use This Repo”** section  
+- A **Contributing Guide**  
+- A **Professional GitHub profile README** to match this branding  
+
+Just tell me the direction you want to take.
