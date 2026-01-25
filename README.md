@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.23b48720-5185-42c5-a5a9-095eab1bd6c5.png" alt="Power BI Engineering & Solutions Hub Banner" width="100%">
-</p>
 
 <h1 align="center">🚀 Power BI Engineering & Solutions Hub</h1>
 <h3 align="center"><strong>By Devi Garapati — Senior Power BI Developer | BI Architect | Analytics Engineer</strong></h3>
@@ -99,14 +96,3 @@ Power BI solutions for large-scale automotive operations:
 Senior BI Developer • BI Architect • Analytics Engineer  
 Power BI • Azure • SQL • REST APIs • Python  
 Enterprise reporting • Modeling • Automation • Architecture
-
-If this repository helps you, feel free to ⭐ star the repo or open an issue.
-
----
-
-Would you like me to add:
-- A folder-by-folder README structure  
-- A “How to Use This Repo” section  
-- A matching GitHub profile README  
-
-Just say the word and I’ll tailor it for you.
