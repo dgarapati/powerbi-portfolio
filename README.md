@@ -1,16 +1,19 @@
----
+<p align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.23b48720-5185-42c5-a5a9-095eab1bd6c5.png" alt="Power BI Engineering & Solutions Hub Banner" width="100%">
+</p>
 
-# 🚀 Power BI Engineering & Solutions Hub  
-### **By Devi Garapati — Senior Power BI Developer | BI Architect | Analytics Engineer**
+<h1 align="center">🚀 Power BI Engineering & Solutions Hub</h1>
+<h3 align="center"><strong>By Devi Garapati — Senior Power BI Developer | BI Architect | Analytics Engineer</strong></h3>
 
-A comprehensive end‑to‑end hub for **Power BI development, modeling, DAX, architecture, governance, DevOps, and enterprise‑grade analytics solutions**.  
-You can also **view or request sample Power BI files hosted on Fabric Capacity**.
+<p align="center">
+  Enterprise BI • Microsoft Fabric • DAX • M Query • Data Engineering • AI-powered Analytics
+</p>
 
 ---
 
 ## 🏷️ Badges
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
   <img src="https://img.shields.io/badge/Maintained-Yes-blue" />
   <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=social" />
@@ -22,23 +25,14 @@ You can also **view or request sample Power BI files hosted on Fabric Capacity**
 
 ## 📘 Overview
 
-This repository is a curated collection of **Power BI fundamentals → advanced enterprise architecture**, including:
-
-- Data modeling best practices  
-- DAX fundamentals & advanced patterns  
-- Power Query (M) transformations  
-- Data engineering integrations (ADF, Fabric, Databricks, REST APIs)  
-- Semantic layer design  
-- Governance, security, and workspace administration  
-- CI/CD, DevOps, and automation  
-- Real‑world templates, scripts, and reusable patterns  
+This repository is a curated hub for **Power BI development, modeling, DAX, architecture, governance, DevOps, and enterprise analytics**.  
+You can also **view or request sample Power BI files hosted on Fabric Capacity**.
 
 ---
 
 ## 📂 Repository Structure
 
-This repo contains **Power BI concepts, patterns, and sample `.pbix` files** for each topic area.  
-Each folder includes documentation, examples, and reusable templates.
+Organized by topic, each folder includes `.pbix` files, documentation, and reusable templates.
 
 ---
 
@@ -70,7 +64,7 @@ PBIP, Git, Azure DevOps, REST API automation, PowerShell scripts.
 ## 🧭 Roadmap & Sample Solutions
 
 ### ✈️ **Airline & Travel Industry Analytics (15+ Reports)**  
-A curated collection of enterprise‑grade Power BI reports covering:
+Enterprise-grade Power BI reports for:
 
 - Inflight Operations & Performance  
 - Technical Operations (TechOps)  
@@ -79,24 +73,24 @@ A curated collection of enterprise‑grade Power BI reports covering:
   <a href="https://app.powerbi.com/view?r=eyJrIjoiOGI2NGFhYjItOWNmOS00ZjIxLTllOTMtNGJkZGI1ZDVkMDRhIiwidCI6ImQ1YzhiNjBkLTlmZDAtNDIzNy04NzllLTFhZWEyYjNjYTIwZSJ9" target="_blank">View Sample Report</a>  
 - Booking Patterns & Marketing Trends  
 - Delay & Cancellation Analytics  
-- Executive Daily Operational Dashboards  
-- Guest Care, Service Quality & Training Metrics  
-- Flight Attendant Credit Card Sales & Performance  
+- Executive Dashboards  
+- Guest Care & Service Quality  
+- Flight Attendant Credit Card Sales  
 
 ---
 
-### 🚗 **Automotive Industry Analytics (Toyota‑Style Enterprise Models)**  
-A collection of Power BI solutions designed for large‑scale automotive operations:
+### 🚗 **Automotive Industry Analytics (Toyota‑Style Models)**  
+Power BI solutions for large-scale automotive operations:
 
-- Manufacturing Performance & Plant Operations  
-- Vehicle Production Planning & Line Efficiency  
-- Quality Control, Warranty Claims & Defect Analytics  
-- Supply Chain, Parts Logistics & Inventory Optimization  
-- Dealer Network Performance & Sales Funnel Analytics  
-- Customer Experience & Service Retention  
-- Connected Vehicle & Telematics Insights  
-- Marketing Attribution & Campaign Performance  
-- Executive Operational Dashboards  
+- Manufacturing & Plant Operations  
+- Vehicle Production & Line Efficiency  
+- Warranty Claims & Defect Analytics  
+- Supply Chain & Inventory Optimization  
+- Dealer Network & Sales Funnel  
+- Customer Experience & Retention  
+- Connected Vehicle & Telematics  
+- Marketing Attribution  
+- Executive Dashboards  
 
 ---
 
@@ -110,13 +104,9 @@ If this repository helps you, feel free to ⭐ star the repo or open an issue.
 
 ---
 
-If you want, I can also create:
-
-- A table of contents  
-- A banner image  
-- A folder‑by‑folder README structure  
+Would you like me to add:
+- A folder-by-folder README structure  
 - A “How to Use This Repo” section  
-- A Contributing Guide  
 - A matching GitHub profile README  
 
-Just tell me and I’ll shape it exactly the way you want.
+Just say the word and I’ll tailor it for you.
